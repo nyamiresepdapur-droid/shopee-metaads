@@ -1,5 +1,3 @@
-import './globals.css'
-
 export const metadata = {
   title: 'Berkah Affiliate Hub',
   description: 'Sistem Manajemen Agency Ads',
